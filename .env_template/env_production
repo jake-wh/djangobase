@@ -1,0 +1,6 @@
+# Django
+DEBUG=False
+ENVIRONMENT=production
+
+# Https
+ALLOWED_HOSTS=localhost,

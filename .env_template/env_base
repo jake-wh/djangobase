@@ -1,0 +1,7 @@
+# Django
+
+SECRET_KEY=
+
+# Admins
+
+DJANGO_ADMINS=

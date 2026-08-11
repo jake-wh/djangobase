@@ -1,0 +1,6 @@
+# Django
+DEBUG=True
+ENVIRONMENT=local
+
+# Https
+ALLOWED_HOSTS=localhost,
