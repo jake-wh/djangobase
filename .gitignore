@@ -10,4 +10,7 @@ wheels/
 .venv
 
 # Env variables directory
-.env
+.env/
+
+# Workspace specific settings
+.vscode
