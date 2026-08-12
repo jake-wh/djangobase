@@ -4,4 +4,4 @@ SECRET_KEY=
 
 # Admins
 
-DJANGO_ADMINS=
+DJANGO_ADMINS=Jake+Waterhouse:jake.zan111@gmail.com,
